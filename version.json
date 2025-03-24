@@ -1,10 +1,10 @@
 {
- "version": "1.0.0",
+ "version": "1.1.1",
   "changes": [
     "Erste Version des STAR Anticheat-Systems",
     "Implementierung grundlegender Erkennungsfunktionen",
     "Ban-System mit temporären und permanenten Bans"
   ],
-  "download_url": "https://github.com/Styx125sc/star_ac/releases/latest",
+  "download_url": "https://keymaster.fivem.net/asset-grants?search=STAR_AC",
   "required": true
 }
