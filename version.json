@@ -6,5 +6,5 @@
     "Ban-System mit temporären und permanenten Bans"
   ],
   "download_url": "https://github.com/Styx125sc/star_ac/releases/latest",
-  "required": false
+  "required": true
 }
